@@ -61,7 +61,7 @@ python html_to_pdf.py
 
 ```python
 # 示例配置
-input_dir = Path(r'D:\临时文件\微信公众号批量下载工具3.5\下载\哥飞')
+input_dir = Path(r'D:\html')
 output_dir = input_dir / 'PDF'
 max_convert = 10  # None 表示转换全部
 ```
